@@ -1,5 +1,5 @@
 
-# Prem Thakur - Web Developer Portfolio
+#  Hi 👋, I'm Prem Thakur
 
 ![Portfolio Banner](https://img.shields.io/badge/Portfolio-Prem%20Thakur-blue)
 
